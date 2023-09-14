@@ -53,7 +53,7 @@ Secure file in stored in separate file  called .env   for run application easily
  -  Node server running PORT
 
 ## POSTMAN API 
-**Checking API** - https://api.openweathermap.org/data/2.5/weather?&appid=d959e62b1d610d74b46b04810d6ce5f6&q=new york
+**Checking API** - https://api.openweathermap.org/data/2.5/weather?&appid=d959e62b1d610d74b46b04810d6ce5f6&q=london
 
 **get all user data** - http://localhost:5000/users/get
 **add  single user data** - http://localhost:5000/users/add
