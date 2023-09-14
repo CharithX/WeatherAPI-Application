@@ -7,7 +7,7 @@
 ## About
 **Overview:**
 
-The Weather Forecast Service is a web application that allows users to register and provide their location information (city name). The system retrieves real-time weather data for the specified location and provides users with weather updates, including temperature, humidity, and a weather description
+The Weather Forecast Service is a backend application that allows users  provide their location information (city name). The system retrieves real-time weather data for the specified location and provides users with weather updates, including temperature, humidity, and a weather description
 
 **Features:**
 
